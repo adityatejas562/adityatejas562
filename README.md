@@ -2,12 +2,11 @@
 
 # 👋 Hi there, I'm Tejas Aditya
 
-![Visitor Count](https://komarev.com/ghpvc/?username=adityatejas562&color=blueviolet)
+
 
 I'm a passionate Computer Science student with a focus on web development and cloud computing. I enjoy building responsive, interactive web applications and have experience working with a variety of technologies.Beyond crafting user-friendly solutions, I thrive on tackling algorithmic puzzles and optimizing code for efficiency and performance. 
 
 ## 💻 Tech Stack
-
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -24,6 +23,9 @@ I'm a passionate Computer Science student with a focus on web development and cl
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+
+
 
 
 
