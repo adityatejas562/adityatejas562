@@ -4,7 +4,7 @@
 
 
 
-I'm a passionate Computer Science student with a focus on web development and cloud computing. I enjoy building responsive, interactive web applications and have experience working with a variety of technologies.Beyond crafting user-friendly solutions, I thrive on tackling algorithmic puzzles and optimizing code for efficiency and performance. 
+I'm a passionate Computer Science student with a focus on web development and algorithmic design. I enjoy building responsive, interactive web applications and have experience working with a variety of technologies.Beyond crafting user-friendly solutions, I thrive on tackling algorithmic puzzles and optimizing code for efficiency and performance. 
 
 ## 💻 Tech Stack
 <p> 
